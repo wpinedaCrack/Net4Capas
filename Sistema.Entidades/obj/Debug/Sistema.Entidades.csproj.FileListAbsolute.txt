@@ -1,0 +1,6 @@
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

@@ -1,0 +1,13 @@
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\UdemyFull\_CSharReciente\4_capas_Net\ProyectoWilbert\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
